@@ -26,6 +26,7 @@ public class TestLed {
 	public void testLedMockOn() {
 		System.out.println("TestLedMockOn");
 		DomainSystemConfig.simulation = true; //per lavorare in modo simulato
+		DomainSystemConfig.ledGui = true;
 		
 		//ILed led = DeviceFactory.createLed(); //la factory serve per costruire oggetti
 		ILed led = new LedMock();
@@ -39,7 +40,7 @@ public class TestLed {
 	@Test
 	public void testLedMockOff() {
 		System.out.println("TestLedMockOff");
-		//DomainSystemConfig.simulation = true;
+		DomainSystemConfig.simulation = true;
 		
 		//ILed led = DeviceFactory.createLed(); //la factory serve per costruire oggetti
 				ILed led = new LedMock();	
