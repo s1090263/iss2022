@@ -4,10 +4,10 @@
 "SonareRemote"     : "true",
 "protocolType"     : "mqtt",
 "pcHostAddr"       : "localhost",
-"raspHostAddr"     : "192.168.1.113",
+"raspHostAddr"     : "192.168.1.10",
 "radarGuiPort"     : "8014",
 "ledPort"          : "8010",
-"sonarPort"        : "8012",
+"sonarPort"        : "8015",
 "sonarObservable"  : "false",
 "controllerPort"   : "8016",
 "serverTimeOut"    : "600000",
@@ -19,7 +19,7 @@
 "tempBrokerAddr"   : "tcp://broker.hivemq.com",
 
 
-"simulation"       : "true",
+"simulation"       : "false",
 "sonarDistanceMax" : "150",
 "sonarDelay"       : "200",
 "DLIMIT"           : "70",

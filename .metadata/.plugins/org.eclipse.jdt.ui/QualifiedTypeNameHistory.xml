@@ -19,4 +19,5 @@
     <fullyQualifiedTypeName name="it.unibo.radarSystem22.domain.concrete.RadarDisplay"/>
     <fullyQualifiedTypeName name="java.io.Reader"/>
     <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+    <fullyQualifiedTypeName name="org.json.JSONException"/>
 </qualifiedTypeNameHistroy>

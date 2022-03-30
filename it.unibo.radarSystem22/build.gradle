@@ -19,7 +19,7 @@ dependencies {
 
 //CUSTOM RadarSystem
 	implementation name: 'it.unibo.radarSystem22.domain-1.0'
-	implementation name: 'it.unibo.comm2022-1.0'
+	implementation name: 'it.unibo.comm2022-2.0'
 	
 //CUSTOM unibo
     implementation name: '2p301'
@@ -43,7 +43,7 @@ eclipse {
     }
 }
 
-mainClassName = 'it.unibo.radarSystem22.sprint2.MainSelectOnRasp'
+mainClassName = 'it.unibo.radarSystem22.sprint3.main.devicesOnRasp.RadarSysSprint3DevicesOnRaspMain'
 
 jar {
     from sourceSets.main.allSource
