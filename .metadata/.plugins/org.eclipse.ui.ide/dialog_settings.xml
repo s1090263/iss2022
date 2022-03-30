@@ -27,6 +27,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\matyu\Desktop\ingegneria_del_software\issLab2022\it.unibo.radarSystem22_4"/>
 			<item value="C:\Users\matyu\Desktop\fondamenti di IA\esercitazioni\Es1\Esercitazione sulle strategie di ricerca - Soluzione in Java-20220324\SoluzioneAISearch-AIMA3e\AISearch"/>
 			<item value="C:\Users\matyu\Desktop\ingegneria_del_software\issLab2022\it.unibo.comm2022"/>
 		</list>

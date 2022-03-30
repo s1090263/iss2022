@@ -47,7 +47,7 @@ public class RadarSystemMainDevsCtxOnRasp implements IApplication{
 	    	DomainSystemConfig.testing     = false;			
 	    	DomainSystemConfig.tracing     = false;			
 			DomainSystemConfig.sonarDelay  = 200;
-	    	DomainSystemConfig.ledGui      = true;		//se siamo su PC	
+	    	DomainSystemConfig.ledGui      = false;		//se siamo su PC	
 	    	
 		    CommSystemConfig.tracing       = true;
 
